@@ -1,2 +1,2 @@
 # discrete_distribution_network
-Implementation of the Discrete Distribution Networks Paper submitted to ICLR 2025 for a school project
+Implementation of the Discrete Distribution Networks Paper submitted to ICLR 2025 for a school project (https://openreview.net/forum?id=xNsIfzlefG)
